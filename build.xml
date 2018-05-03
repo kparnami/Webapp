@@ -31,7 +31,8 @@
            optimize="false" 
            deprecation="true" 
            verbose="false" 
-           fork="false">
+           fork="false"
+		   includeantruntime="false">
       <src>
         <pathelement location="${build.srcDir}"/>
       </src>
